@@ -1,0 +1,9 @@
+jQuery populateCountry plugin
+it only do one thing - return options tag contains world countries name
+http://weldan.github.com/jQuery-populateCountry/
+
+Usage: 
+$("select#id").populateCountry();
+or
+$("select.class").populateCountry();
+
