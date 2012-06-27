@@ -4,7 +4,7 @@
   * credit: http://www.liewcf.com/javascript-world-country-list-89/ 
   * i only turn it into plugin.
   * - Weldan Jamili <mweldan@gmail.com> http://mweldan.com
-  *
+  * url: http://weldan.github.com/jQuery-populateCountry
   *
   * Usage: 
   * $("select#id").populateCountry();
