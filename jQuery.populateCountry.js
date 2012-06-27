@@ -6,7 +6,10 @@
   * - Weldan Jamili <mweldan@gmail.com> http://mweldan.com
   *
   *
-  * Usage: $("#element").populateCountry();
+  * Usage: 
+  * $("select#id").populateCountry();
+  * or
+  * $("select.class").populateCountry();
   **/
   (function($){
       $.fn.populateCountry = function() {
