@@ -27,7 +27,7 @@
             return console.log(_error);
         }
         if (_result != ""){
-            return _this.html(_result);
+            return _this.append(_result);
         }
     }
   })(jQuery);
